@@ -1,2 +1,5 @@
 # ALL PROJECTS
-A directory that helps you to easier navigate through my repositories and check the projects I have done.
+#### Collection of all projects 
+
+## Q <a id="q"></a>
+- <a href="https://github.com/Razvi20/QrCodeWebsite">QR code block<a/> - QR code component made with HTML & CSS
