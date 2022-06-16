@@ -1,2 +1,2 @@
-# all-projects-directory
+# ALL PROJECTS
 A directory that helps you to easier navigate through my repositories and check the projects I have done.
